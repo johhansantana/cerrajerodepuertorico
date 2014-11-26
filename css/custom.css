@@ -190,3 +190,17 @@
     height: 330px;
   }
 }
+
+@media (max-width: 380px){
+  .service-picture-1{
+    height: 230px;
+  }
+
+  .service-picture-2{
+    height: 230px;
+  }
+
+  .service-picture-3{
+    height: 230px;
+  }
+}
