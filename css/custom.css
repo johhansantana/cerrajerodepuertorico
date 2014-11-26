@@ -1,3 +1,7 @@
+body{
+  padding-bottom: 0px;
+}
+
 .text-muted{
 	text-indent: -9999px;
 }
@@ -147,6 +151,27 @@
 
 .p-justify{
   text-align: justify;
+}
+
+.center{
+  text-align: center;
+}
+
+.bg-gray{
+  background-color: #E6E6E6;
+}
+
+.banner{
+  background-image: url("../assets/images/banner.png");
+  background-size: cover;
+  min-height: 412px;
+}
+
+.yt{
+  color: #e52d27;
+}
+.yt:hover{
+  color: #b31217;
 }
 
 @media (max-width: 1200px){
