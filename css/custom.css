@@ -36,6 +36,11 @@
 	text-shadow: 2px 2px 2px #000;
 }
 
+.carousel-caption p{
+  text-align: left;
+  text-shadow: 1px 1px 1px #000;
+}
+
 .carousel-caption h1{
 	font-weight: 900;
 }
