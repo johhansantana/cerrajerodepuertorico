@@ -1,3 +1,7 @@
+html{
+  padding-bottom: 0px;
+}
+
 body{
   padding-bottom: 0px;
 }
@@ -172,6 +176,26 @@ body{
 }
 .yt:hover{
   color: #b31217;
+}
+
+.scrollup{
+  width: 30px;
+  height: 10px;
+  position: fixed;
+  bottom: 50px;
+  right: 100px;
+  display: none;
+  color: #d8640f;
+  z-index: 999;
+}
+
+.scrollup:hover{
+  color: #EB8438;
+}
+
+.fa-chevron-up{
+  margin-left: 1px;
+  margin-top: -1px;
 }
 
 @media (max-width: 1200px){
