@@ -74,3 +74,71 @@
     bottom: -3px;
     width: 30%;
 }
+
+.service-holder{
+  background-image: url("../assets/images/servicios-holder2.png");
+  background-size: cover;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-position: center center;
+  z-index: 1;
+  height: 100%;
+  width: 100%;
+  background-repeat: no-repeat;
+}
+
+.service-picture-1{
+  background-image: url("../assets/images/9.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 330px;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+
+.service-picture-2{
+  background-image: url("../assets/images/3.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 330px;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+
+.service-picture-3{
+  background-image: url("../assets/images/7.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 330px;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+
+.m-t{
+  margin-top: 15px!important;
+}
+
+.m-r{
+  margin-right: 15px!important;
+}
+
+.m-b{
+  margin-bottom: 15px!important;
+}
+
+.m-l{
+  margin-left: 15px!important;
+}
+
+.paragraph-service{
+  z-index: 2;
+  position: relative;
+}
+
+.p-justify{
+  text-align: justify;
+}
