@@ -198,6 +198,10 @@ body{
   margin-top: -1px;
 }
 
+.custom-topdiv{
+  top: 20px;
+}
+
 @media (max-width: 1200px){
   .service-picture-1{
     height: 300px;
@@ -224,6 +228,10 @@ body{
   .service-picture-3{
     height: 465px;
   }
+
+  .custom-topdiv{
+    top: 0;
+  }
 }
 
 @media (max-width: 560px){
@@ -237,6 +245,10 @@ body{
 
   .service-picture-3{
     height: 330px;
+  }
+
+  .scrollup{
+    right: 5px;
   }
 }
 
