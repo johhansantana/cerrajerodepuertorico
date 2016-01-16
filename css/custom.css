@@ -58,13 +58,15 @@ body{
 	background-size: cover;
 	min-height: 100%;
 	background-position: center center;
+  background-repeat: no-repeat;
 }
 
 .second-background{
 	background-image: url("../assets/images/carousel/3r.jpg");
 	background-size: cover;
 	min-height: 100%;
-	background-position: center center;
+	background-position: bottom center;
+  background-repeat: no-repeat;
 }
 
 .third-background{
@@ -72,6 +74,7 @@ body{
 	background-size: cover;
 	min-height: 100%;
 	background-position: center center;
+  background-repeat: no-repeat;
 }
 
 .content-header.v3{
